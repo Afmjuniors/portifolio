@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+.page-wrapper {
+    width: 1200px;
+    margin: 0 auto;
+
+
+}
+
+.header {
+    display: flex;
+    ;
+    justify-content: flex-end;
+    color: #666666;
+    height: 55px;
+
+
+
+}
+
+.nav-group-logo {
+    
+    font-style: italic;
+    padding: 2px;
+    font-weight: bold;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 40px;
+    background: -webkit-linear-gradient(0deg, rgba(0,192,253,1) 0%, rgba(231,15,170,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-group-page-items {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 20px;
+    width: 610px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 60px;
+
+}
+
+.nav-group-page-items a {
+    padding: 4px 8px;
+
+}
+
+.nav-group-page-items a:hover {
+    background-color: lightgray;
+
+}
+
+.nav-grupo-social-icons {
+    width: 130px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.main-about{
+    display: flex;
+    flex-direction: column;
+    margin-top: 90px;
+
+}
+
+.section-about{
+    width: 710px ;
+}
+.card-experience{
+    height: 75px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+
+}
+.card-experience hr{
+    margin-top: auto;
+}
+.top-card{
+    display: flex;
+    justify-content: space-between;
+    color: #666666;
+    font-weight:300;
+    font-size: 20px;
+    
+}
+.bottom-card{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    color: #A7A7A7;
+    padding-top: 8px;
+
+
+}
+.bottom-card-edu{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    color: #A7A7A7;
+    padding-top: 8px;
+    justify-content: space-between;
+
+}
+
+.titulo-Item{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 42px;
+    color: #42446E;
+    padding: 30px 0;
+
+}
+.paragrafo{
+    font-size: 24px;
+    color: #666666;
+
+}
+
+.bottom-card div{
+    display: flex;
+
+}
+.bottom-card-edu div{
+    display: flex;
+
+}
+
+.date{
+    margin-left: auto;
+}
+
+
