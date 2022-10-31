@@ -74,47 +74,6 @@ a {
     align-items: center;
 
 }
-
-
-
-
-.section-home {
-    min-height: calc(100vh - 55px);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-}
-
-.section-home-item {
-    flex-grow: 1;
-    font-family: 'Poppins', sans-serif;
-    font-size: 28px;
-    display: flex;
-    justify-content: space-between;
-
-}
-
-.my-name {
-    background: -webkit-linear-gradient(0deg, #1AABF3 , #7566D2);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-
-}
-
-
-.profile-img {
-
-    background: rgb(0, 192, 253);
-    background: linear-gradient(0deg, rgba(0, 192, 253, 1) 0%, rgba(231, 15, 170, 1) 100%);
-    padding: 8px;;
-
-    border-radius: 50%;
-
-}
-
-/*****************      About               **********/
-
 .main-about{
     display: flex;
     flex-direction: column;
@@ -191,4 +150,5 @@ a {
 .date{
     margin-left: auto;
 }
+
 
