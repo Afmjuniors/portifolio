@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29" width="29" height="29">
+	<title>hackerrank 1 (1)</title>
+	<defs>
+		<image  width="27" height="29" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAdCAMAAABsU+d6AAAAAXNSR0IB2cksfwAAAFRQTFRFAAAAZGRkZWVlZmZmZWVlZmZmY2NjYGBgZ2dnYGBgZmZmZWVlYGBgZWVlaGhoZGRkZmZmZmZmZ2dnZmZmZmZmZ2dnZWVlZWVlZGRkZWVlZmZmcHBwzQcKXAAAABx0Uk5TAEC//2DfUCCfEH/vMG8goO+Av3Cgr8+wcDDPEPE6O2sAAAC6SURBVHiclZLZFoMgDEQHEAVtqVsX2///z4om2CgPdZ7CuWcSsgCblDa6QE6FNVH2SGcPy5aCVBuJclUivm7MTjWhCxWyv9Au1is9gr/trWqN2vkDXqZW6DgJ0MuaA0bJNMB1He4UtRmWEh2YzjBzlpFOsxg+/q3HvbcH9szMhZnDi33O2ZXxxDveA6mZgJKgQlrEqrevaGZD7CfIhdMVTNSttMbU3SeNIowC6SCusNwSa3XirhfaS88Xkn4KKtXWstEAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="1" y="0"/>
+</svg>
