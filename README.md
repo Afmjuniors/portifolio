@@ -3,7 +3,7 @@
 <h1>Revisão de HTML e CSS Vanilha</h1>
 
 <h2>Deploy</h2>
-<a>https://github.com/Afmjuniors/projeto-frontendreact/graphs/contributors</a>
+https://github.com/Afmjuniors/projeto-frontendreact/graphs/contributors
 
 Template criado por<br>
 https://www.figma.com/@pavanmg007<br>
