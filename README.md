@@ -120,9 +120,6 @@ Project Link: [https://github.com/Afmjuniors/portifolio](https://github.com/Afmj
 
 
 
-## Deploy
-https://afmjuniors.github.io/portifolio/
-
 ## Template made by<br>
 https://www.figma.com/@pavanmg007<br>
 You can generate your own copy from the original template on the link here<br>
