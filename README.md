@@ -96,7 +96,7 @@ To run this site localy you have only to fork this repository and open the intex
 
 This Website was developt to be a resume, where its possible to view all my basic information.
 I will make sure to keep it up to date.
-The page projects will be all completed projects. To keep up with current projects follow me in my social midia.
+The page projects will be all completed projects. To keep up with current projects follow me in my social midia.<br>
 <img src="readme-image/card-project.jpg"><br>
 ### In each card you will find
 * A sreenshot of the project
