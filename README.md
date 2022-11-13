@@ -1,7 +1,7 @@
 # Revisão de HTML e CSS Vanilha
 
 ## Deploy
-https://github.com/Afmjuniors/projeto-frontendreact/graphs/contributors
+https://afmjuniors.github.io/revisao-portifolio/
 
 ## Template criado por<br>
 https://www.figma.com/@pavanmg007<br>
