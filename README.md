@@ -120,6 +120,8 @@ Project Link: [https://github.com/Afmjuniors/portifolio](https://github.com/Afmj
 
 
 
+## Deploy
+https://github.com/Afmjuniors/projeto-frontendreact/graphs/contributors
 
 ## Template made by<br>
 https://www.figma.com/@pavanmg007<br>
